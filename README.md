@@ -40,7 +40,7 @@ npm run dev
 
 ⚠️ En caso de no contar con el backend:
 
-1. Descargarlo desde el siguiente link "[Backend](https://we.tl/t-vU9qqqOnqo)"(Peso de archivo descargable: <span style="color: green">23 KB</span>). <span style="color: yellow">*Este link es de carácter temporal y estará disponible sólo hasta el* <span style="color: red;">**01/10/2025**</span>*, luego de esta fecha se debe solicitar nuevo link para descarga*</span>.
+1. Descargarlo desde el siguiente link "[Backend](https://we.tl/t-vneWk4KKdx)"(Peso de archivo descargable: <span style="color: green">23 KB</span>). <span style="color: yellow">_Este link es de carácter temporal y estará disponible sólo hasta el_ <span style="color: red;">**07/10/2025**</span>_, luego de esta fecha se debe solicitar nuevo link para descarga_</span>.
 2. Descomprimir archivo descargado
 3. Abrir el directorio en terminal
 4. Instalar dependencias:
@@ -65,10 +65,10 @@ npm run dev
 └── src/                # Código fuente de la aplicación
    ├── App.jsx          # Componente principal de la app
    ├── App.css          # Estilos específicos de App.jsx
-   ├── main.jsx         # Entrada de la app, monta App en index.html
+   ├── main.jsx         # Entrada de la app
    ├── index.css        # Estilos globales de la aplicación
    ├── components/      # Componentes reutilizables
    ├── assets/          # Recursos (imágenes, íconos, fuentes)
-   │   └── img/         # Imágenes de la aplicación
+   ├── pages            # Páginas de la aplicación
    └── utils/           # Funciones auxiliares o helpers
 ```
